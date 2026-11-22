@@ -32,7 +32,7 @@ function Home({ go }: { go: (v: View) => void }) {
   return (
     <main>
       <section className="hero">
-        <h1>Siap Ausbildung ke Jerman 🚀</h1>
+        <h1>Siap Ausbildung <span>ke Jerman</span> 🇩🇪</h1>
         <p>Belajar bahasa Jerman A1 dengan penjelasan bahasa Indonesia. Latihan kosakata, membaca, dan simulasi ujian.</p>
       </section>
       <h2>📚 Kosakata (Kartu Hafalan)</h2>
